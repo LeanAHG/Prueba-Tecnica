@@ -1,0 +1,42 @@
+{
+  "kind": "collectionType",
+  "collectionName": "perros",
+  "info": {
+    "name": "Perros"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "nombre": {
+      "type": "string",
+      "required": true,
+      "minLength": 2
+    },
+    "raza": {
+      "type": "string",
+      "required": true,
+      "minLength": 1
+    },
+    "edad": {
+      "type": "date",
+      "required": true
+    },
+    "exacta": {
+      "type": "boolean",
+      "default": false,
+      "required": true
+    },
+    "sexo": {
+      "type": "enumeration",
+      "enum": [
+        "Macho",
+        "Hembra"
+      ],
+      "required": true
+    }
+  }
+}
