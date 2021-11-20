@@ -2,48 +2,48 @@
   "routes": [
     {
       "method": "GET",
-      "path": "/perros",
-      "handler": "perros.find",
+      "path": "/races",
+      "handler": "races.find",
       "config": {
         "policies": []
       }
     },
     {
       "method": "GET",
-      "path": "/perros/count",
-      "handler": "perros.count",
+      "path": "/races/count",
+      "handler": "races.count",
       "config": {
         "policies": []
       }
     },
     {
       "method": "GET",
-      "path": "/perros/:id",
-      "handler": "perros.findOne",
+      "path": "/races/:id",
+      "handler": "races.findOne",
       "config": {
         "policies": []
       }
     },
     {
       "method": "POST",
-      "path": "/perros",
-      "handler": "perros.create",
+      "path": "/races",
+      "handler": "races.create",
       "config": {
         "policies": []
       }
     },
     {
       "method": "PUT",
-      "path": "/perros/:id",
-      "handler": "perros.update",
+      "path": "/races/:id",
+      "handler": "races.update",
       "config": {
         "policies": []
       }
     },
     {
       "method": "DELETE",
-      "path": "/perros/:id",
-      "handler": "perros.delete",
+      "path": "/races/:id",
+      "handler": "races.delete",
       "config": {
         "policies": []
       }

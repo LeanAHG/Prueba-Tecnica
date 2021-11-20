@@ -1,8 +1,8 @@
 {
   "kind": "collectionType",
-  "collectionName": "razas",
+  "collectionName": "races",
   "info": {
-    "name": "razas",
+    "name": "races",
     "description": ""
   },
   "options": {
