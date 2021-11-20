@@ -18,7 +18,10 @@ git clone https://github.com/LeanAHG/pruebaTecnicaBack.git
 npm install
 ```
 ## Uso
-- En una consola de comandos inicializar mongoDB con el comando:
+
+### MongoCompass
+Conectarse al puerto local y proceder con el paso 3
+- 1- En una consola de comandos inicializar mongoDB con el comando:
  ```cmd
 mongod
 ```
