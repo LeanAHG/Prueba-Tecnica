@@ -34,5 +34,6 @@ npm run develop
 MongoDB
 <p align = "left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt = "mongodb" width = "60" height = "60" /> </ a > </p>
 
+
 Strapi.io
-<p align = "left"> <a href="https://strapi.io/" target="_blank" rel="noreferrer"> <img src = "https://strapi.io/assets/strapi-logo-light.svg" alt = "strapi" width = "60" height = "60" /> </ a > </p>
+<p align = "left"> <a href="https://strapi.io/" target="_blank" rel="noreferrer"> <img src = "https://strapi.io/assets/strapi-logo-light.svg" alt = "strapi" width = "70" height = "70" /> </ a > </p>
