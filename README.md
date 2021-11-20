@@ -30,6 +30,13 @@ mongosh
 ```bash
 npm run develop
 ```
+## Rutas activas
+- ### GET razas
+http://localhost:1337/races
+
+- ### POST una nuava mascota
+http://localhost:1337/dogs
+
 ## Tecnologías
 - #### MongoDB
 <p align = "left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt = "mongodb" width = "60" height = "60" /> </ a > </p>
