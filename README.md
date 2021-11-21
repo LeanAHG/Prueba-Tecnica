@@ -21,18 +21,38 @@ npm install
 
 ### MongoCompass
 Conectarse al puerto local y proceder con el paso 3
+
+### Consola de comandos
 - 1- En una consola de comandos inicializar mongoDB con el comando:
  ```cmd
 mongod
 ```
-- Y en otra consola de comandos realizar la conexión al puerto con: 
+- 2- Y en otra consola de comandos realizar la conexión al puerto con: 
  ```cmd
 mongosh
 ```
-- Finalmente en una terminal usar este comando para inicializar la aplicación:
+- 3- Finalmente en una terminal usar este comando para inicializar la aplicación:
 ```bash
 npm run develop
 ```
+## Agregar razas desde Strapi
+<div>
+ <hr/>
+    <br/>
+      Regístrate en Strapi para acceder al de administrador y una vez registrado ingresar a la coleción de razas. 
+    <br/>
+    <div align="center">
+     <img src="https://prnt.sc/209jgk3" width="800px"/> 
+    </div>
+    
+    <br/>
+       Clickear en agregar y finalmente insertar en el campo name el nombre que desee ingresar.
+    <br/>
+    <div align="center">
+     <img src="https://prnt.sc/209w8ti" width="800px"/> 
+    </div>
+</div>
+    
 ## Rutas activas
 - ### GET razas
 http://localhost:1337/races
