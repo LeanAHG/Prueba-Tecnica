@@ -39,21 +39,21 @@ npm run develop
 <div>
  <hr/>
     <br/>
-     - Regístrate en Strapi para acceder al de administrador y una vez registrado ingresar a la coleción de razas. 
+     - Regístrate en Strapi para acceder al panel de administrador y una vez registrado ingresar a la coleción de razas. 
     <br/>
     <br/>
     <div>
      <img src="./images/selectCollection.png" width="400px"/> 
     </div>
     <br/>
-      - Clickear en agregar e insertar en el campo name el nombre que desee ingresar.
+      - Clickear en agregar.
     <br/>
     <br/>
     <div>
      <img src="./images/addRace.png" width="800px"/> 
     </div>
     <br/>
-      - Finalmente clickear en guardar.
+      - Insertar en el campo name el nombre que desee ingresar y finalmente clickear en guardar.
     <br/>
     <br/>
     <div>
