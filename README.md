@@ -66,7 +66,7 @@ npm run develop
 - ### GET razas
 http://localhost:1337/races
 
-- ### POST una nuava mascota
+- ### POST una nueva mascota
 http://localhost:1337/dogs
 
 ## Tecnologías
